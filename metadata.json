@@ -1,0 +1,6 @@
+{
+  "name": "APEX Trader 2.0: AI Агенттер Империясы",
+  "description": "Binance Spot нарығына арналған 20 маман агент және 21-ші Бас агенттен тұратын автономды мульти-агент сауда жүйесі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
